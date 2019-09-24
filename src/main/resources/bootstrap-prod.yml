@@ -1,0 +1,8 @@
+spring:
+  cloud:
+    config:
+      uri: http://47.95.112.208:8888
+      name: itoken-admin
+      label: master
+      profile: prod
+
